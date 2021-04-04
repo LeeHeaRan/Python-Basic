@@ -1,4 +1,4 @@
-# Python-Basic-summary
+# Python-Basic
 ### 파이썬 기본 문법 요약정리입니다.
 
 
