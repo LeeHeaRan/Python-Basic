@@ -13,8 +13,8 @@ part3 : while, for - in, if - elif - else
 
 part4 : class
 
-
-part5 : numpy (정리 예정)
+---2021-1-중간고사 영역---
+part5 : numpy (정리 예정) 
  
 
 part6 : matplotlib (정리 예정)
