@@ -14,10 +14,9 @@ part3 : while, for - in, if - elif - else
 part4 : class
 
 
----2021-1-중간고사 영역---
+---2021-1-중간고사 영역---Python3
 
-
-part5 : numpy
+part5 : numpy Python3
  
 
-part6 : matplotlib
+part6 : matplotlib Python4
