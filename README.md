@@ -13,7 +13,9 @@ part3 : while, for - in, if - elif - else
 
 part4 : class
 
-----------정리중
+----------정리중-----------
+
+
 part5 : numpy Python3
  
 
